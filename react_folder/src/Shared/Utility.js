@@ -1,0 +1,1 @@
+export const ROOTURL = "https://localhost:44363/api";
